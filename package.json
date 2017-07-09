@@ -1,5 +1,5 @@
 {
-  "name": "node-starter-kit",
+  "name": "jwtcli",
   "version": "1.0.0-beta.0",
   "description": "cli wrapper around jsonwebtoken",
   "main": "index.js",
